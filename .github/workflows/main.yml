@@ -1,4 +1,4 @@
-name: Update gist with WakaTime summary1
+name: Update gist with WakaTime summary
 on:
   schedule:
     - cron: '1 * * * *'
